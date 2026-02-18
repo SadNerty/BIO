@@ -8,14 +8,6 @@
 
 ## 📊 My Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SadNerty&show_icons=true&theme=radical&border_radius=10" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SadNerty&theme=radical&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SadNerty&theme=radical" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=SadNerty&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
