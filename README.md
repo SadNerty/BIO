@@ -25,9 +25,13 @@
 ## 💼 About me
 
 Name: Konstantin
+
 Age: 16 years old
+
 Place of study: Ural Regional College (URC)
+
 Specialization: Computer Programmer
+
 Main specialization: Frontend Developer
 
 
