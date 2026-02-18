@@ -47,7 +47,7 @@
   <a href="https://t.me/ABL3TOV">
     <img src="https://img.shields.io/badge/telegram-181717?style=for-the-badge&logo=telegram" />
   </a>
-</p>**
+</p>
 
 ---
 
