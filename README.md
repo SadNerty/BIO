@@ -8,7 +8,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,py,js,ts,react,nodejs,nextjs,redux,sass,tailwind,nginx,postgres,mysql,mongodb,docker,git,linux,vscode,visualstudio,webstorm" />
+  <img src="https://skillicons.dev/icons?i=py,js,nodejs,git,windows,vscode,visualstudio" />
 </p>
 
 ---
