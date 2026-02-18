@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech's
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,nodejs,git,windows,vscode,visualstudio" />
@@ -13,7 +13,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SadNerty&show_icons=true&theme=radical&border_radius=10" />
@@ -26,24 +26,16 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SadNerty&theme=radical&no-frame=true&margin-w=8&margin-h=8" />
-</p>
-
----
-
 ## 🌌 About Me
 
-- 💻 Passionate about backend & scalable systems  
+- 💻 Beginner Dev
 - 🎨 Love clean UI & smooth UX  
 - ⚡ Fast learner & performance-focused  
 - 🔥 Always improving  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect 
 
 <p align="center">
   <a href="https://github.com/SadNerty">
@@ -53,7 +45,7 @@
 
 <p align="center">
   <a href="https://t.me/ABL3TOV">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/telegram-181717?style=for-the-badge&logo=telegram" />
   </a>
 </p>**
 
