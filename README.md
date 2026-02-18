@@ -24,6 +24,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SadNerty&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,git,vscode,visualstudio" />
+</p>
+
 ---
 
 ## 🌌 About Me
