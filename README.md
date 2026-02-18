@@ -67,7 +67,7 @@ Main specialization: Frontend Developer
 
 ---
 
-## 📫 Connect 
+## 📫 Connect with me
 
 <p align="center">
   <a href="https://github.com/SadNerty">
