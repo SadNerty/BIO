@@ -59,7 +59,7 @@
 
 ---
 
-## 📫 Connect with me
+## 📫 How to reach me
 
 <p align="center">
   <a href="https://github.com/SadNerty">
