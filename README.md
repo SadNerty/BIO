@@ -1,8 +1,6 @@
 <h1 align="center">⚡ SadNerty</h1>
-<h3 align="center">Full Stack Developer | Problem Solver | Code Enthusiast</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Experienced+Developer;Full+Stack+Engineer;Always+Learning+New+Things;Building+The+Future+With+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Beginner+Developer" />
 </p>
 
 ---
