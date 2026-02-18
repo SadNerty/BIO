@@ -32,10 +32,10 @@
 
 ## 🌌 About Me
 
-- 💻 Beginner Dev
-- 🎨 Love clean UI & smooth UX  
-- ⚡ Fast learner & performance-focused  
-- 🔥 Always improving  
+OC:<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+</p>
+
 
 ---
 
